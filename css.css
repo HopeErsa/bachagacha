@@ -1,0 +1,35 @@
+body
+
+
+{
+	background-image:url('ss.png');
+	background-position:center;
+	background-size:cover;
+	background-color:yellow;
+}
+
+h1
+{
+	color:green;
+}
+p
+{
+	color:red;
+}
+
+img
+{
+	width:10px;
+	height:10px;
+}
+ul li
+{
+	display:inline-block;
+	font-size:1000;
+	padding:1px  10px;
+	border:1px solid black;
+}
+ul 
+{
+	text-align: center;
+}
